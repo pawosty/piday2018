@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const { execFile } = require('child_process');
 
 // call this url, lock the screen
 // TODO: implement some sort of security so people can't randomly lock the screen, lol
