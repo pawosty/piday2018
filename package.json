@@ -1,0 +1,17 @@
+{
+  "name": "piday2018",
+  "version": "1.0.0",
+  "description": "PiDay 2018 project. Push a button, lock your desktop!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raspberry-pi"
+  ],
+  "author": "Paul Wostenberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
